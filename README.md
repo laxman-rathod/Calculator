@@ -5,6 +5,7 @@ A simple yet modern calculator application built using React.js, TailwindCSS, an
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
@@ -18,6 +19,9 @@ A simple yet modern calculator application built using React.js, TailwindCSS, an
 - Clear display for inputs and results
 - Keyboard support for input
 - Clean and modular code structure
+
+## Demo
+calculator-seven-smoky.vercel.app
 
 ## Installation
 
