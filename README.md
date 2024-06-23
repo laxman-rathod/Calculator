@@ -4,6 +4,7 @@ A simple yet modern calculator application built using React.js, TailwindCSS, an
 
 ## Table of Contents
 
+- [Snapshots](#snapshots)
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
@@ -11,6 +12,9 @@ A simple yet modern calculator application built using React.js, TailwindCSS, an
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Snapshots
+![Screenshot 2024-06-23 154017](https://github.com/laxman-rathod/Calculator/assets/131651450/79f8326a-a3b1-4a98-9ad6-9356d25a81b3)
 
 ## Features
 
@@ -21,9 +25,10 @@ A simple yet modern calculator application built using React.js, TailwindCSS, an
 - Clean and modular code structure
 
 ## Demo
-calculator-seven-smoky.vercel.app
+Check out the live [preview](calculator-seven-smoky.vercel.app) here
 
 ## Installation
+
 
 To get started with the project, follow these steps:
 
